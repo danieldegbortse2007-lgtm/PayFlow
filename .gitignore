@@ -1,0 +1,30 @@
+# Maven
+target/
+
+# Java
+*.class
+
+# PayFlow database
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
