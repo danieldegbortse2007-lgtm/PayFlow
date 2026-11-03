@@ -63,3 +63,16 @@ PayFlow is an ongoing software development project.
 
 Developed as a Java payroll management project.
 
+## Application Screenshots
+
+### 1. Dashboard
+![PayFlow Dashboard](screenshots/dashboard.png)
+
+### 2. Employee Management
+![Employee Management](screenshots/employee.png)
+
+### 3. Payroll Processing
+![Payroll Processing](screenshots/payroll.png)
+
+### 4. Payroll Reports
+![Payroll Reports](screenshots/report.png)
